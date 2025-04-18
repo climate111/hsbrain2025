@@ -5,6 +5,8 @@
     "start": "strapi start"
   },
   "dependencies": {
-    "@strapi/strapi": "^4.21.1"
+    "@strapi/strapi": "^4.21.1",
+    "sqlite3": "^5.1.2"
   }
 }
+
