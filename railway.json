@@ -3,9 +3,10 @@
     "env": {
       "NODE_ENV": "production"
     },
-    "command": "npm install && npm run build"
+    "command": "npm install"
   },
   "start": {
     "command": "npm start"
   }
 }
+
