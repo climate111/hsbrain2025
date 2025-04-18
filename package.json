@@ -5,6 +5,6 @@
     "start": "strapi start"
   },
   "dependencies": {
-    "strapi": "latest"
+    "@strapi/strapi": "^4.21.1"
   }
 }
