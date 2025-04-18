@@ -6,7 +6,9 @@
   },
   "dependencies": {
     "@strapi/strapi": "^4.21.1",
-    "sqlite3": "^5.1.2"
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16.0.0 <=20.x"
   }
 }
-
