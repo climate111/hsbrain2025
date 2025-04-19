@@ -2,7 +2,7 @@
   "name": "hsbrain2025",
   "version": "1.0.0",
   "scripts": {
-    "start": "strapi start"
+    "start": "strapi build && strapi start"
   },
   "dependencies": {
     "@strapi/strapi": "^4.21.1",
